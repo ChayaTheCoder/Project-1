@@ -6,7 +6,6 @@ import static org.junit.Assert.*;
 /**
  * Unit tests for Project1 class.
  * 
- * @author Michaya Mohamed
  * @version Feb 03, 2025
  */
 public class Project1Test 
