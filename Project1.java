@@ -7,6 +7,7 @@ import itsc2214.*;
  * This class provides various operations for managing an integer array, 
  * including adding values, retrieving statistical data such as min, max, 
  * average, and range, checking for duplicates, and handling array capacity.
+ * version Feb 03, 2025
  */
 public class Project1 implements ArrayInt 
 {
